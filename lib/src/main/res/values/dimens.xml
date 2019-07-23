@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="mm_progress_dialog_spinner_size">36.0dp</dimen>
+    <dimen name="mm_progress_dialog_padding">16.0dp</dimen>
+    <dimen name="mm_progress_dialog_text_size">16.0sp</dimen>
+    <dimen name="mm_progress_dialog_min_height">54.0dp</dimen>
+    <dimen name="mm_progress_dialog_text_min_width">150.0dp</dimen>
+    <dimen name="mm_progress_dialog_text_max_width">200.0dp</dimen>
+</resources>
